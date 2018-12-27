@@ -1,0 +1,67 @@
+/* .Main {
+  height: 100%;
+} */
+
+.Link {
+  float: right;
+}
+
+.Select {
+  height: 35px;
+  margin: auto;
+  width: 150px;
+}
+
+.Button {
+  border-radius: 10px !important;
+  height: 34px !important;
+  padding: 0 25px !important;
+  position: relative;
+  top: 15px;
+  right: -10px;
+}
+
+.ButtonContractor {
+  position: absolute;
+  left: 58px;
+  padding: 5px !important;
+  width: 126px;
+}
+
+.Badge {
+  position: absolute;
+  top: 12px;
+  left: 36px;
+}
+
+.BadgeMessages {
+  position: absolute;
+  right: 15px;
+  top: 13px;
+}
+
+.AppBar {
+  /* background-color: rgba(0, 0, 0, 0.3) !important; */
+  background-color: grey !important;
+}
+
+.AppBar-home {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  position: absolute !important;
+}
+
+
+.TitleText {
+  position: absolute;
+  left: 65px;
+  top: 22px;
+  color: white;
+  font-size: 1.2em;
+}
+
+.MenuLabel {
+  padding: 12px 16px;
+  color: #484848;
+  font-size: 18px;
+  font-weight: 400;
+}

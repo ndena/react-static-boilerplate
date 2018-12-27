@@ -1,0 +1,4 @@
+export const MOBILE_SCREEN = 'MOBILE_SCREEN'
+export const SMALL_SCREEN = 'SMALL_SCREEN'
+export const MEDIUM_SCREEN = 'MEDIUM_SCREEN'
+export const LARGE_SCREEN = 'LARGE_SCREEN'

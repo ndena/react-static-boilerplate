@@ -1,0 +1,23 @@
+.AppBar {
+  height: 64px;
+  z-index: 1100;
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.AppBar-grey {
+  background-color: grey;
+}
+
+.AppBarLeftIcon {
+  position: absolute;
+  left: 24px;
+  top: 20px;
+}
+
+.AppBarLeftIcon svg {
+  height: 24px !important;
+  width: 24px !important;
+}

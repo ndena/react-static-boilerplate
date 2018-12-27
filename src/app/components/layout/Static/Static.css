@@ -1,0 +1,9 @@
+.Link {
+  float: right;
+}
+
+.Icon {
+  position: absolute;
+  left: 50%;
+  top: 7px;
+}

@@ -1,0 +1,9 @@
+.Main {
+  background-color: white;
+  text-align: center;
+  width: 100%;
+  min-height: calc(100vh - 64px);
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+}
