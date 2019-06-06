@@ -28,4 +28,9 @@
       }
     }
   },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "legacyDecorators": true
+    }
+  }
 }

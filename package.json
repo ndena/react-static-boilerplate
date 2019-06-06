@@ -26,7 +26,7 @@
     "domready": "^1.0.8",
     "dotenv": "^4.0.0",
     "eslint": "^5.11.1",
-    "handlebars": "4.0.8",
+    "handlebars": "^4.0.14",
     "history": "^4.7.2",
     "koa": "next",
     "koa-convert": "^1.2.0",
